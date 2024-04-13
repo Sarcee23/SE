@@ -64,5 +64,30 @@ Python 3.x
 No additional Python packages required.
     
 <h2>Assignment 3: Task Management System</h2>
+# Task Management System
 
-All of them are CLI menu-based, and all of them keep a track of changes as asked for in the question
+This project implements a command-line task management system in C++. It allows users to create, edit, mark tasks as complete, view all tasks, delete tasks, and save changes to a CSV file.
+
+## Features
+
+* Add new tasks.
+* Edit existing tasks (name only, cannot edit completed tasks).
+* Mark tasks as complete.
+* View a list of all tasks.
+* Delete tasks.
+* Save changes to a CSV file.
+
+## Requirements
+
+* C++ compiler (e.g., GCC, Clang)
+* Standard C++ libraries (`fstream`, `<vector>`, `<algorithm>`, `<string>`, `<sstream>`, `<limits>`, `<iomanip>`)
+
+## Usage
+
+1. **Compile the code:**
+
+   ```bash
+   g++ -o task_manager task_manager.cpp
+
+
+All of these programs are CLI menu-based, and all of them keep a track of changes as asked for in the question
