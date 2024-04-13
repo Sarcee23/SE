@@ -2,7 +2,41 @@
 
 There are <b>three</b> programs for the following three questions:
 
-<h2>Assignment 1: Shop Management System</h2>
+<h2>Assignment 1: Shop Inventory Management System</h2>
+# Inventory Management System
+
+This project implements a basic inventory management system with buyer and seller functionalities. It utilizes Python and leverages CSV files for data persistence.
+
+## Features
+
+* **User Management:** Allows users to identify themselves as buyers or sellers.
+* **Product Management (Seller):**
+    * View product listings with details (ID, name, price, quantity).
+    * Restock existing products by adding quantity.
+    * Update product prices.
+    * Add new products with unique IDs, names, prices, and quantities.
+* **Product Interaction (Buyer):**
+    * View product listings with details.
+    * Purchase products by specifying ID and quantity (subject to stock availability).
+
+## Requirements
+
+* Python 3.x (https://www.python.org/downloads/)
+* `csv` module (included in standard library)
+* `subprocess` module (included in standard library)  # For Git integration (optional)
+
+## Installation
+
+1. Clone this repository or download the code files.
+2. Install any additional required libraries using `pip install <library_name>`.
+
+## Usage
+
+1. Run the `main.py` script:
+
+   ```bash
+   python main.py
+
 <h2>Assignment 2: Marks Management System</h2>
 Features:
 Add Student: Teachers can add new students to the system along with their marks for each subject. Students can also view their own marks.
