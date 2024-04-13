@@ -1,0 +1,8 @@
+2024-04-13 02:44:37.536197 - Added: {'Name': 'Ram Kumar', 'Roll Number': '90', 'Math': '20', 'Science': '30', 'English': '40'}
+2024-04-13 02:48:32.750403 - Added: {'Name': 'Hu ha', 'Roll Number': '12', 'Math': '29', 'Science': '3099', 'English': '49'}
+2024-04-13 02:49:01.468975 - Deleted: Roll Number: 12
+2024-04-13 02:51:55.857837 - Added: {'Name': 'ram kumar', 'Roll Number': '4', 'OOS': 90, 'SE': 100, 'GT': 20, 'GGM': 30, 'CN': 40}
+2024-04-13 02:52:25.695103 - Added: {'Name': 'huha hehe', 'Roll Number': '899', 'OOS': 28, 'SE': 21, 'GT': 91, 'GGM': 29, 'CN': 39}
+2024-04-13 02:52:54.870226 - Added: {'Name': 'hueha ehehe', 'Roll Number': '50', 'OOS': 27, 'SE': 19, 'GT': 90, 'GGM': 99, 'CN': 98}
+2024-04-13 03:01:51.332499 - Added: {'Name': 'HUHA KUMAR', 'Roll Number': '28', 'OOS': 99, 'SE': '0', 'GT': '0', 'GGM': '0', 'CN': '0'}
+2024-04-13 03:02:21.785476 - Edited: Roll Number: 28, Subject: OOS, Old Mark: 99, New Mark: 20
