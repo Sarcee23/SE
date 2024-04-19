@@ -6,3 +6,6 @@ Added: 6 chigga Task is pending
 Added: 7 water the plants Task is pending
 Completed: 7 water the plants Task is completed
 Updated: 6 Testing Task is pending
+Added: 8 Go to college Task is pending
+Updated: 8 Go to college on Friday Task is pending
+Deleted: 6 Testing Task is pending

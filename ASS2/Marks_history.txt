@@ -6,3 +6,6 @@
 2024-04-13 02:52:54.870226 - Added: {'Name': 'hueha ehehe', 'Roll Number': '50', 'OOS': 27, 'SE': 19, 'GT': 90, 'GGM': 99, 'CN': 98}
 2024-04-13 03:01:51.332499 - Added: {'Name': 'HUHA KUMAR', 'Roll Number': '28', 'OOS': 99, 'SE': '0', 'GT': '0', 'GGM': '0', 'CN': '0'}
 2024-04-13 03:02:21.785476 - Edited: Roll Number: 28, Subject: OOS, Old Mark: 99, New Mark: 20
+2024-04-13 15:17:53.872330 - Added: {'Name': 'Arthur Gremio', 'Roll Number': '78', 'OOS': '0', 'SE': '0', 'GT': '0', 'GGM': '0', 'CN': 100}
+2024-04-13 15:18:09.407730 - Edited: Roll Number: 78, Subject: CN, Old Mark: 100, New Mark: 70
+2024-04-13 15:18:20.514270 - Deleted: Roll Number: 28
